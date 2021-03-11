@@ -1,4 +1,5 @@
 pipfile
 pipfile.lock
 idea
+db.sqlite3
 .idea
